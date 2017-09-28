@@ -1,0 +1,24 @@
+#quote, #author {
+  color:orange
+}
+
+#author {
+  font-size:18px
+}
+
+.buttons {
+  margin-top:150px;
+}
+
+.buttons button, .buttons a {
+  padding: 10px;
+  font-size:16px
+}
+
+#facebook {
+  margin-left:10px
+}
+
+#new_quote {
+  margin-left:70px
+}
